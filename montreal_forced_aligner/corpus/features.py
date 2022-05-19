@@ -546,7 +546,7 @@ class FeatureConfigMixin:
         snip_edges: bool = True,
         low_frequency: int = 20,
         high_frequency: int = 7800,
-        sample_frequency: int = 16000,
+        sample_frequency: int = 22050,
         allow_downsample: bool = True,
         allow_upsample: bool = True,
         speaker_independent: bool = True,
