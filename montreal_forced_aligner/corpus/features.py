@@ -688,8 +688,6 @@ class FeatureConfigMixin:
             "low-freq": self.low_frequency,
             "high-freq": self.high_frequency,
             "sample-frequency": self.sample_frequency,
-            "allow-downsample": self.allow_downsample,
-            "allow-upsample": self.allow_upsample,
             "snip-edges": self.snip_edges,
         }
 
