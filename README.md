@@ -1,4 +1,4 @@
-# Montreal Forced Aligner
+# Montreal Forced Aligner - Bugs...hmmm
 
 ![Continuous Integration](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/actions/workflows/main.yml/badge.svg)
 [![codecov](https://codecov.io/gh/MontrealCorpusTools/Montreal-Forced-Aligner/branch/main/graph/badge.svg?token=GgfM9GXFJ4)](https://codecov.io/gh/MontrealCorpusTools/Montreal-Forced-Aligner)
